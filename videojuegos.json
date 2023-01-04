@@ -1,0 +1,19 @@
+{
+  "videojuegos": [
+    {
+      "titulo": "The Legend of Zelda: Breath of the Wild",
+      "consola": "Nintendo Switch",
+      "anioLanzamiento": 2017
+    },
+    {
+      "titulo": "Super Mario Odyssey",
+      "consola": "Nintendo Switch",
+      "anioLanzamiento": 2017
+    },
+    {
+      "titulo": "Red Dead Redemption 2",
+      "consola": "PlayStation 4",
+      "anioLanzamiento": 2018
+    }
+  ]
+}
